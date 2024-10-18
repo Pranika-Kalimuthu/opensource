@@ -1,2 +1,0 @@
-# opensource
-Open source hackathon
